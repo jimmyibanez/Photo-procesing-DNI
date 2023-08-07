@@ -103,7 +103,7 @@ def procesarImagen(path, name):
       # resBW = imutils.resize(roi_gray, width)
 
       resName = 'result/{}.jpg'.format(name)
-      cv2.imwrite(resName, res)
+      cv2.imwrite(resName, res) 
 
       # resBWName = 'resultBW/{}.jpg'.format(name)
       # cv2.imwrite(resName, resBW)
