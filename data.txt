@@ -1,0 +1,3 @@
+test1.jpg   fooballer
+test2.jpg   ballerina
+test3.jpg   chess_player
